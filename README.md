@@ -1,4 +1,4 @@
-# Next.js+TypeScript+Tailwind CSS
+# Next.js
 
 - Next.js
 - TypeScript
