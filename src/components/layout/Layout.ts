@@ -1,2 +1,2 @@
-import { HomeLayout } from "./HomeLayout";
-import { AboutLayout } from "./AboutLayout";
+export { HomeLayout } from "./HomeLayout";
+export { AboutLayout } from "./AboutLayout";
