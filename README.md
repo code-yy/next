@@ -3,3 +3,4 @@
 - Next.js
 - TypeScript
 - ESLint
+- Yarn
