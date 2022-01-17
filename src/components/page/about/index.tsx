@@ -1,4 +1,5 @@
 import { VFC } from "react";
+
 import styles from "@/styles/About.module.css";
 
 export const About: VFC = () => {

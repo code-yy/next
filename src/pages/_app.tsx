@@ -1,10 +1,9 @@
-import { NextPage } from "next";
-import { ReactElement, ReactNode } from "react";
-import Head from "next/head";
-
-import type { AppProps } from "next/app";
-
 import "@/styles/globals.css";
+
+import { NextPage } from "next";
+import type { AppProps } from "next/app";
+import Head from "next/head";
+import { ReactElement, ReactNode } from "react";
 
 type NextPageWithLayout = NextPage & {
   getLayout?: (page: ReactElement) => ReactNode;

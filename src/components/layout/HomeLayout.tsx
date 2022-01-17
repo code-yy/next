@@ -1,6 +1,8 @@
 import { VFC } from "react";
-import { Footer } from "./Footer";
+
 import styles from "@/styles/Home.module.css";
+
+import { Footer } from "./Footer";
 
 export const HomeLayout: VFC = (page) => {
   return (
